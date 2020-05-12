@@ -180,12 +180,8 @@ h1{
   font-size:20px;
 }
 @media(max-width:1000px){
-  .main li{
-    width:24%;
-  }
   h2{
     font-size:24px
-  }
   }
   h3{
     font-size:14px
